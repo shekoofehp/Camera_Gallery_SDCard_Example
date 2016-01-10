@@ -6,4 +6,5 @@ package androidinterview.com.androidcamera;
 public class test {
 
 // this line added for test
+// This line addedd from Android Studio
 }
