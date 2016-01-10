@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:2:1-42:12
 	xmlns:android
 		ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -37,7 +37,7 @@ ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroi
 	android:name
 		ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:12:22-62
 application
-ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:14:5-36:19
+ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:14:5-40:19
 MERGED from [com.android.support:support-v4:22.2.1] C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:17:9-41
@@ -75,3 +75,9 @@ ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroi
 		ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:34:13-45
 	android:name
 		ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:33:13-52
+activity#androidinterview.com.androidcamera.SDCardSubfolderPickActivity
+ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from C:\Users\SHEKOOFEH\AndroidStudioProjects\WellWorkingProjects\MyAndroidCamera\app\src\main\AndroidManifest.xml:37:13-56

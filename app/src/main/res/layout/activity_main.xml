@@ -17,19 +17,18 @@
         android:background="#0054a6"
         android:padding="15dp" 
         android:textColor="#ffffff"/>
-    <!--<Button
-        android:id="@+id/ShowSDCardImageBtn"
+    <Button
+        android:id="@+id/ShowSDCardSubFolderImageBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:layout_marginTop="10dp"
         android:layout_gravity="center"
-        android:text="@string/show_sd_card_image"
-        android:onClick="showSdCardimageClick"
+        android:text="@string/show_sd_card_subfolder_image"
+        android:onClick="showSdCardSubfolderImageClick"
         android:background="#0054a6"
         android:padding="15dp"
         android:textColor="#ffffff"/>
--->
     <Button
         android:id="@+id/GalleryImagePickBtn"
         android:layout_width="match_parent"

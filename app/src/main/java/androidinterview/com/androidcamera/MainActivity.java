@@ -32,7 +32,7 @@ public class MainActivity extends Activity {
 	public void cameraClick(View v) {
 		try {
 			Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-			File file = new File(Environment.getExternalStorageDirectory(),"MyPhoto.jpg");
+			File file = new File(Environment.getExternalStorageDirectory()+"/shekoofeh/","MyPhoto1.jpg");
 			outPutFileUri = Uri.fromFile(file);
 			intent.putExtra(MediaStore.EXTRA_OUTPUT, outPutFileUri);
 
@@ -43,9 +43,11 @@ public class MainActivity extends Activity {
 		}
 	}
 
-	public void showSdCardimageClick(View v) {
-		imageview.setImageURI(outPutFileUri);
+	public void showSdCardSubfolderImageClick(View v) {
+		Intent intent = new Intent(this, SDCardSubfolderPickActivity.class);
+		startActivity(intent);
 	}
+
 	public void galleryImagePickClick(View v) {
 		Intent intent = new Intent(this, GalleryImagePickActivity.class);
 		startActivity(intent);

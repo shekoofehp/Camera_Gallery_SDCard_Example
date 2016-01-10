@@ -7,7 +7,7 @@
     <string name="open_camera">Open Camera</string>
     <string name="pick_gallery_image">Pick Image from Gallery</string>
     <string name="pick_sd_card_image">Pick Image from SD card</string>
-    <string name="show_sd_card_image">Show SD Card Image</string>
+    <string name="show_sd_card_subfolder_image">Pick Image from SD Card-My Subfolder</string>
     <!-- From: file:/C:/Users/SHEKOOFEH/AndroidStudioProjects/WellWorkingProjects/MyAndroidCamera/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">

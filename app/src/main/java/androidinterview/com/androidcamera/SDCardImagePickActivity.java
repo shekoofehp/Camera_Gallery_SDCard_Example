@@ -163,8 +163,10 @@ public class SDCardImagePickActivity extends Activity implements
 			// Create the cursor pointing to the SDCard
 			Cursor cursor = managedQuery( MediaStore.Images.Thumbnails.EXTERNAL_CONTENT_URI,
 					projection, // Which columns to return
-					null,       // Return all rows
-					null,
+					MediaStore.Images.Media.DATA + " like ? ",
+					new String[] {"%shekoofeh%"},
+					//null,       // Return all rows
+					//null,
 					null);
 			int columnIndex = cursor.getColumnIndexOrThrow(MediaStore.Images.Thumbnails._ID);
 			int size = cursor.getCount();
