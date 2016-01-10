@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="pick_gallery_image">Pick Image from Gallery</string>
+    <string name="show_sd_card_image">Show SD Card Image</string>
+    <string name="pick_sd_card_image">Pick Image from SD card</string>
+</resources>

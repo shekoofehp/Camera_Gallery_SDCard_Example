@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/SHEKOOFEH/AndroidStudioProjects/WellWorkingProjects/MyAndroidCamera/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Android Camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="pick_gallery_image">Pick Image from Gallery</string>
+    <string name="pick_sd_card_image">Pick Image from SD card</string>
+    <string name="show_sd_card_image">Show SD Card Image</string>
+    <!-- From: file:/C:/Users/SHEKOOFEH/AndroidStudioProjects/WellWorkingProjects/MyAndroidCamera/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
